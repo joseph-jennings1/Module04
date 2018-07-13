@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Liquid Layout</title>
+		<title>Module 04</title>
 		<link rel="Stylesheet" href="style.css" type="text/css">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
