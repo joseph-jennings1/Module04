@@ -1,0 +1,53 @@
+	<style type="text/css">
+			* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;
+				background-image: url("https://cdn-images-1.medium.com/max/1600/1*mONNI1lG9VuiqovpnYqicA.jpeg");
+				background-repeat: no-repeat;
+			}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: teal;
+				padding: 0.5em 0;}
+			#nav {
+				background-color: magenta; }
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: purple;
+				}
+			.column1 {
+				background-color:blue; }
+			.column2 {
+				background-color:red;}		
+			.column3 {
+				margin-right: 0%;
+				background-color:yellow; }	
+			#feature {
+				background-image: url("http://r.ddmcdn.com/s_f/o_1/cx_462/cy_245/cw_1349/ch_1349/w_720/APL/uploads/2015/06/caturday-shutterstock_149320799.jpg");
+				background-size: contain; 
+				background-position: center;
+				background-repeat: no-repeat; }
+			h1 {
+				font-family: GidoleRegular; 
+				font-size: 400%; 
+				font-style: normal; 
+				text-align: center;
+			}
+			
+		</style>
